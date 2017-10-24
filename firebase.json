@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "webapp/dist",
+    "rewrites": [ {
+      "source": "/url/**",
+      "function": "/url"
+    } ]
+  },
+  "functions": {
+    "source": "firebase-cloud-functions"
+  }
+}
