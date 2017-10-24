@@ -1,10 +1,10 @@
 # stack-evaluation
 
-> Aplicativo web para avaliação e classificação das habilidades de um candidato para a vaga de desenvolvedor
+Aplicativo web para avaliação e classificação das habilidades de um candidato para a vaga de desenvolvedor
 
 ## Objetivo
 
-  > Enviar um e-mail ao candidato que realizou o cadastro agradecendo o cadastro e informando como o mesmo foi classificado
+  Enviar um e-mail ao candidato que realizou o cadastro agradecendo o cadastro e informando como o mesmo foi classificado
 
   - Front-End
   - Back-End
@@ -13,25 +13,11 @@
 
 ## Classificação
 
- > Para que o candidato seja classificado para um stack, ele deve se auto avaliar com nota igual ou superior a sete nas tecnologias utilizadas na stack.
+ Para que o candidato seja classificado para um stack, ele deve se auto avaliar com nota igual ou superior a sete nas tecnologias utilizadas na stack.
 
-### Front-End
-
-  - HTML, CSS, Javascript
-
-  > Todas iguais ou superior a 7
-
-### Back-End
-
-  - Django, Phyton
-  
-  > Todas iguais ou superior a 7
-
-### Mobile
-
-  - Andoid, IOS
-
-  > Uma ou mais com nota superior a 7
+  - **Front-End**: HTML, CSS e Javascript com notas iguais ou superior a sete
+  - **Back-End**: Django e Phyton com notas iguais ou superior a sete
+  - **Mobile**: Andoid ou IOS com nota superior a sete
 
 ## Conteúdo do e-mail
 
@@ -43,5 +29,5 @@
 
 ## Sobre o projeto
 
- > O envio do e-mail e classificação do candidato será realizado utilizando [Firebase Cloud Functions](https://firebase.google.com/docs/functions/)
+ O envio do e-mail e classificação do candidato será realizado utilizando [Firebase Cloud Functions](https://firebase.google.com/docs/functions/)
  
