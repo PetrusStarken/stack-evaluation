@@ -1,0 +1,11 @@
+{
+  "name": "firebase-cloud-functions",
+  "description": "Funções do firebase para envio do email",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "firebase-admin": "~5.4.0",
+    "firebase-functions": "^0.7.1",
+    "nodemailer": "^4.3.0"
+  },
+  "private": true
+}

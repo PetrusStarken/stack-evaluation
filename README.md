@@ -30,4 +30,6 @@ Aplicativo web para avaliação e classificação das habilidades de um candidat
 ## Sobre o projeto
 
  O envio do e-mail e classificação do candidato será realizado utilizando [Firebase Cloud Functions](https://firebase.google.com/docs/functions/)
+  
+  - [firebase-cloud-functions](https://github.com/PetrusStarken/stack-evaluation/tree/master/firebase-cloud-functions)
  
